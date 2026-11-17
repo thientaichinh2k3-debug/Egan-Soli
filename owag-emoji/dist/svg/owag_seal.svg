@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<defs><linearGradient id="owag_seal-s" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8E1A8" stop-opacity="1"></stop><stop offset="0.5" stop-color="#E2B562" stop-opacity="1"></stop><stop offset="1" stop-color="#A2752B" stop-opacity="1"></stop></linearGradient></defs>
+<polygon points="50.00,4.00 60.22,11.85 73.00,10.16 77.93,22.07 89.84,27.00 88.15,39.78 96.00,50.00 88.15,60.22 89.84,73.00 77.93,77.93 73.00,89.84 60.22,88.15 50.00,96.00 39.78,88.15 27.00,89.84 22.07,77.93 10.16,73.00 11.85,60.22 4.00,50.00 11.85,39.78 10.16,27.00 22.07,22.07 27.00,10.16 39.78,11.85" fill="url(#owag_seal-s)" stroke="url(#owag_seal-s)" stroke-width="2" stroke-linejoin="round"></polygon>
+<circle cx="50" cy="50" r="31" fill="none" stroke="#2A1D07" stroke-width="1.8" opacity="0.4"></circle>
+<path d="M35 51 L46 62 L66 39" fill="none" stroke="#2A1D07" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"></path></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<defs><linearGradient id="liq-tile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B111A" stop-opacity="1"></stop><stop offset="1" stop-color="#140608" stop-opacity="1"></stop></linearGradient></defs>
+<rect x="4" y="4" width="92" height="92" rx="24" fill="url(#liq-tile)"></rect>
+<rect x="4.75" y="4.75" width="90.5" height="90.5" rx="23.25" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="1.5"></rect>
+
+<circle cx="50" cy="44" r="25" fill="#F4F1EA"></circle>
+<rect x="35.5" y="54" width="29" height="21" rx="6" fill="#F4F1EA"></rect>
+<ellipse cx="40" cy="46" rx="7.2" ry="8.2" fill="#160709"></ellipse>
+<ellipse cx="60" cy="46" rx="7.2" ry="8.2" fill="#160709"></ellipse>
+<circle cx="40" cy="47" r="2.4" fill="#F0455A"></circle>
+<circle cx="60" cy="47" r="2.4" fill="#F0455A"></circle>
+<path d="M50 55 L46 62 H54 Z" fill="#160709" stroke="#160709" stroke-width="1.5" stroke-linejoin="round"></path>
+<path d="M44 66 V75 M50 66 V75 M56 66 V75" stroke="#160709" stroke-width="2.6"></path></svg>

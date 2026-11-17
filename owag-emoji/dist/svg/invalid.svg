@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<defs><linearGradient id="invalid-disc" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1B2129" stop-opacity="1"></stop><stop offset="1" stop-color="#090B0F" stop-opacity="1"></stop></linearGradient></defs>
+<circle cx="50" cy="50" r="45.5" fill="url(#invalid-disc)"></circle>
+<circle cx="50" cy="50" r="44.75" fill="none" stroke="rgba(255,255,255,0.10)" stroke-width="1.5"></circle>
+
+<circle cx="50" cy="50" r="29" fill="none" stroke="#FFB21E" stroke-width="9"></circle>
+<line x1="29.5" y1="29.5" x2="70.5" y2="70.5" stroke="#FFB21E" stroke-width="9" stroke-linecap="round"></line></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<g transform="rotate(-5 50 50)">
+<rect x="5.5" y="21" width="89" height="58" rx="10" fill="#0C0F14" stroke="#F0455A" stroke-width="4.5"></rect>
+<rect x="11" y="26.5" width="78" height="47" rx="5.5" fill="none" stroke="#F0455A" stroke-width="1.6" opacity="0.7"></rect>
+<text class="fit" data-cx="50" data-cy="50" data-w="72" data-h="31" font-family="Inter Display, Inter, sans-serif" font-weight="900" fill="#F0455A" font-size="25.723" x="13.743" y="59.132">THUA</text>
+
+</g></svg>

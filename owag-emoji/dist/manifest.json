@@ -1,0 +1,869 @@
+{
+  "pack": "oWAG",
+  "size": 100,
+  "items": [
+    {
+      "id": "owag_mark",
+      "group": "brand",
+      "name": "Dấu oWAG",
+      "use": "Mở đầu bài, chữ ký cuối bài",
+      "emoji": [
+        "⭕"
+      ],
+      "keywords": [
+        "owag",
+        "logo",
+        "egan"
+      ],
+      "static": "static/owag_mark.png",
+      "video": "video/owag_mark.webm"
+    },
+    {
+      "id": "owag_logo",
+      "group": "brand",
+      "name": "Huy hiệu oWAG",
+      "use": "Đầu tiêu đề, ảnh đại diện mini",
+      "emoji": [
+        "🪙"
+      ],
+      "keywords": [
+        "owag",
+        "logo"
+      ],
+      "static": "static/owag_logo.png"
+    },
+    {
+      "id": "owag_word",
+      "group": "brand",
+      "name": "Chữ oWAG",
+      "use": "Chèn tên thương hiệu trong câu",
+      "emoji": [
+        "🔤"
+      ],
+      "keywords": [
+        "owag",
+        "wordmark"
+      ],
+      "static": "static/owag_word.png"
+    },
+    {
+      "id": "owag_coin",
+      "group": "brand",
+      "name": "Đồng oWAG",
+      "use": "Nói về token, phần thưởng cộng đồng",
+      "emoji": [
+        "💰"
+      ],
+      "keywords": [
+        "owag",
+        "coin",
+        "token"
+      ],
+      "static": "static/owag_coin.png"
+    },
+    {
+      "id": "owag_eye",
+      "group": "brand",
+      "name": "Mắt quan sát",
+      "use": "Đang theo dõi, chờ xác nhận",
+      "emoji": [
+        "👁️"
+      ],
+      "keywords": [
+        "watch",
+        "theo dõi",
+        "quan sát"
+      ],
+      "static": "static/owag_eye.png",
+      "video": "video/owag_eye.webm"
+    },
+    {
+      "id": "owag_seal",
+      "group": "brand",
+      "name": "Dấu kiểm chứng",
+      "use": "Số liệu đã kiểm chứng, lệnh công khai",
+      "emoji": [
+        "✅"
+      ],
+      "keywords": [
+        "verified",
+        "kiểm chứng",
+        "xác nhận"
+      ],
+      "static": "static/owag_seal.png"
+    },
+    {
+      "id": "long",
+      "group": "order",
+      "name": "LONG",
+      "use": "Chiều mua",
+      "emoji": [
+        "🟢",
+        "📈"
+      ],
+      "keywords": [
+        "long",
+        "mua",
+        "buy"
+      ],
+      "static": "static/long.png",
+      "video": "video/long.webm"
+    },
+    {
+      "id": "short",
+      "group": "order",
+      "name": "SHORT",
+      "use": "Chiều bán",
+      "emoji": [
+        "🔴",
+        "📉"
+      ],
+      "keywords": [
+        "short",
+        "bán",
+        "sell"
+      ],
+      "static": "static/short.png",
+      "video": "video/short.webm"
+    },
+    {
+      "id": "entry",
+      "group": "order",
+      "name": "VÀO",
+      "use": "Vùng vào lệnh",
+      "emoji": [
+        "▶️"
+      ],
+      "keywords": [
+        "entry",
+        "vào lệnh",
+        "điểm vào"
+      ],
+      "static": "static/entry.png"
+    },
+    {
+      "id": "tp1",
+      "group": "order",
+      "name": "TP1",
+      "use": "Mục tiêu chốt lời 1",
+      "emoji": [
+        "🎯"
+      ],
+      "keywords": [
+        "tp",
+        "tp1",
+        "chốt lời",
+        "take profit"
+      ],
+      "static": "static/tp1.png"
+    },
+    {
+      "id": "tp2",
+      "group": "order",
+      "name": "TP2",
+      "use": "Mục tiêu chốt lời 2",
+      "emoji": [
+        "🎯"
+      ],
+      "keywords": [
+        "tp",
+        "tp2",
+        "chốt lời",
+        "take profit"
+      ],
+      "static": "static/tp2.png"
+    },
+    {
+      "id": "tp3",
+      "group": "order",
+      "name": "TP3",
+      "use": "Mục tiêu chốt lời 3",
+      "emoji": [
+        "🎯"
+      ],
+      "keywords": [
+        "tp",
+        "tp3",
+        "chốt lời",
+        "take profit"
+      ],
+      "static": "static/tp3.png"
+    },
+    {
+      "id": "sl",
+      "group": "order",
+      "name": "SL",
+      "use": "Điểm cắt lỗ",
+      "emoji": [
+        "🛑"
+      ],
+      "keywords": [
+        "sl",
+        "cắt lỗ",
+        "stop loss"
+      ],
+      "static": "static/sl.png"
+    },
+    {
+      "id": "dca",
+      "group": "order",
+      "name": "DCA",
+      "use": "Vùng trung bình giá",
+      "emoji": [
+        "🔵"
+      ],
+      "keywords": [
+        "dca",
+        "trung bình giá"
+      ],
+      "static": "static/dca.png"
+    },
+    {
+      "id": "rr",
+      "group": "order",
+      "name": "R:R",
+      "use": "Tỷ lệ lời/lỗ của kịch bản",
+      "emoji": [
+        "⚖️"
+      ],
+      "keywords": [
+        "rr",
+        "risk reward",
+        "tỷ lệ"
+      ],
+      "static": "static/rr.png"
+    },
+    {
+      "id": "lev_x3",
+      "group": "order",
+      "name": "x3",
+      "use": "Đòn bẩy x3",
+      "emoji": [
+        "⚡"
+      ],
+      "keywords": [
+        "leverage",
+        "đòn bẩy",
+        "x3"
+      ],
+      "static": "static/lev_x3.png"
+    },
+    {
+      "id": "lev_x5",
+      "group": "order",
+      "name": "x5",
+      "use": "Đòn bẩy x5",
+      "emoji": [
+        "⚡"
+      ],
+      "keywords": [
+        "leverage",
+        "đòn bẩy",
+        "x5"
+      ],
+      "static": "static/lev_x5.png"
+    },
+    {
+      "id": "lev_x10",
+      "group": "order",
+      "name": "x10",
+      "use": "Đòn bẩy x10",
+      "emoji": [
+        "⚡"
+      ],
+      "keywords": [
+        "leverage",
+        "đòn bẩy",
+        "x10"
+      ],
+      "static": "static/lev_x10.png"
+    },
+    {
+      "id": "win",
+      "group": "status",
+      "name": "THẮNG",
+      "use": "Tổng kết: lệnh thắng",
+      "emoji": [
+        "🏆"
+      ],
+      "keywords": [
+        "win",
+        "thắng",
+        "lãi"
+      ],
+      "static": "static/win.png"
+    },
+    {
+      "id": "loss",
+      "group": "status",
+      "name": "THUA",
+      "use": "Tổng kết: lệnh thua",
+      "emoji": [
+        "💀"
+      ],
+      "keywords": [
+        "loss",
+        "thua",
+        "lỗ"
+      ],
+      "static": "static/loss.png"
+    },
+    {
+      "id": "breakeven",
+      "group": "status",
+      "name": "HÒA",
+      "use": "Tổng kết: hoà vốn",
+      "emoji": [
+        "➖"
+      ],
+      "keywords": [
+        "breakeven",
+        "hòa vốn",
+        "be"
+      ],
+      "static": "static/breakeven.png"
+    },
+    {
+      "id": "cancel",
+      "group": "status",
+      "name": "HỦY",
+      "use": "Kịch bản bị huỷ, không khớp",
+      "emoji": [
+        "🚫"
+      ],
+      "keywords": [
+        "cancel",
+        "hủy",
+        "huỷ"
+      ],
+      "static": "static/cancel.png"
+    },
+    {
+      "id": "hit_tp",
+      "group": "status",
+      "name": "Chạm TP",
+      "use": "Đã chạm mục tiêu",
+      "emoji": [
+        "✅"
+      ],
+      "keywords": [
+        "hit tp",
+        "đạt mục tiêu",
+        "chạm tp"
+      ],
+      "static": "static/hit_tp.png",
+      "video": "video/hit_tp.webm"
+    },
+    {
+      "id": "hit_sl",
+      "group": "status",
+      "name": "Chạm SL",
+      "use": "Đã dính cắt lỗ",
+      "emoji": [
+        "❌"
+      ],
+      "keywords": [
+        "hit sl",
+        "dính sl",
+        "cắt lỗ"
+      ],
+      "static": "static/hit_sl.png"
+    },
+    {
+      "id": "pending",
+      "group": "status",
+      "name": "Chờ khớp",
+      "use": "Lệnh chờ, chưa khớp",
+      "emoji": [
+        "⏳"
+      ],
+      "keywords": [
+        "pending",
+        "chờ khớp",
+        "lệnh chờ"
+      ],
+      "static": "static/pending.png"
+    },
+    {
+      "id": "live",
+      "group": "status",
+      "name": "Đang chạy",
+      "use": "Lệnh đang mở",
+      "emoji": [
+        "🟢"
+      ],
+      "keywords": [
+        "live",
+        "đang chạy",
+        "đang mở"
+      ],
+      "static": "static/live.png",
+      "video": "video/live.webm"
+    },
+    {
+      "id": "candles_up",
+      "group": "market",
+      "name": "Nến tăng",
+      "use": "Xu hướng tăng",
+      "emoji": [
+        "📈"
+      ],
+      "keywords": [
+        "bull",
+        "tăng",
+        "uptrend"
+      ],
+      "static": "static/candles_up.png"
+    },
+    {
+      "id": "candles_down",
+      "group": "market",
+      "name": "Nến giảm",
+      "use": "Xu hướng giảm",
+      "emoji": [
+        "📉"
+      ],
+      "keywords": [
+        "bear",
+        "giảm",
+        "downtrend"
+      ],
+      "static": "static/candles_down.png"
+    },
+    {
+      "id": "breakout",
+      "group": "market",
+      "name": "Phá kháng cự",
+      "use": "Breakout",
+      "emoji": [
+        "🚀"
+      ],
+      "keywords": [
+        "breakout",
+        "phá kháng cự",
+        "vượt đỉnh"
+      ],
+      "static": "static/breakout.png"
+    },
+    {
+      "id": "breakdown",
+      "group": "market",
+      "name": "Thủng hỗ trợ",
+      "use": "Breakdown",
+      "emoji": [
+        "🕳️"
+      ],
+      "keywords": [
+        "breakdown",
+        "thủng hỗ trợ",
+        "gãy nền"
+      ],
+      "static": "static/breakdown.png"
+    },
+    {
+      "id": "alert",
+      "group": "market",
+      "name": "Cảnh báo",
+      "use": "Rủi ro, tin xấu, cẩn trọng",
+      "emoji": [
+        "⚠️"
+      ],
+      "keywords": [
+        "alert",
+        "cảnh báo",
+        "rủi ro"
+      ],
+      "static": "static/alert.png",
+      "video": "video/alert.webm"
+    },
+    {
+      "id": "flash",
+      "group": "market",
+      "name": "Tin nóng",
+      "use": "Tin nhanh, biến động mạnh",
+      "emoji": [
+        "⚡"
+      ],
+      "keywords": [
+        "flash",
+        "tin nóng",
+        "breaking"
+      ],
+      "static": "static/flash.png",
+      "video": "video/flash.webm"
+    },
+    {
+      "id": "liq",
+      "group": "market",
+      "name": "Thanh lý",
+      "use": "Cháy tài khoản, thanh lý hàng loạt",
+      "emoji": [
+        "💀"
+      ],
+      "keywords": [
+        "liquidation",
+        "thanh lý",
+        "cháy"
+      ],
+      "static": "static/liq.png"
+    },
+    {
+      "id": "whale",
+      "group": "market",
+      "name": "Cá voi",
+      "use": "Ví lớn, dòng tiền lớn",
+      "emoji": [
+        "🐋"
+      ],
+      "keywords": [
+        "whale",
+        "cá voi",
+        "dòng tiền"
+      ],
+      "static": "static/whale.png"
+    },
+    {
+      "id": "macro",
+      "group": "market",
+      "name": "Vĩ mô",
+      "use": "Tin vĩ mô, lãi suất, dòng vốn toàn cầu",
+      "emoji": [
+        "🌐"
+      ],
+      "keywords": [
+        "macro",
+        "vĩ mô",
+        "fed"
+      ],
+      "static": "static/macro.png"
+    },
+    {
+      "id": "research",
+      "group": "market",
+      "name": "Nghiên cứu",
+      "use": "Bóc tách dự án, bài phân tích",
+      "emoji": [
+        "🔍"
+      ],
+      "keywords": [
+        "research",
+        "nghiên cứu",
+        "phân tích"
+      ],
+      "static": "static/research.png"
+    },
+    {
+      "id": "target",
+      "group": "market",
+      "name": "Mục tiêu",
+      "use": "Vùng giá mục tiêu",
+      "emoji": [
+        "🎯"
+      ],
+      "keywords": [
+        "target",
+        "mục tiêu"
+      ],
+      "static": "static/target.png"
+    },
+    {
+      "id": "shield",
+      "group": "market",
+      "name": "Quản trị vốn",
+      "use": "Quản trị rủi ro, bảo toàn vốn",
+      "emoji": [
+        "🛡️"
+      ],
+      "keywords": [
+        "risk",
+        "quản trị vốn",
+        "rủi ro"
+      ],
+      "static": "static/shield.png"
+    },
+    {
+      "id": "hold",
+      "group": "market",
+      "name": "Nắm giữ",
+      "use": "Vị thế dài hạn, khoá vốn",
+      "emoji": [
+        "🔒"
+      ],
+      "keywords": [
+        "hold",
+        "nắm giữ",
+        "dài hạn"
+      ],
+      "static": "static/hold.png"
+    },
+    {
+      "id": "pin",
+      "group": "market",
+      "name": "Ghim",
+      "use": "Bài ghim, tổng kết tuần",
+      "emoji": [
+        "📌"
+      ],
+      "keywords": [
+        "pin",
+        "ghim"
+      ],
+      "static": "static/pin.png"
+    },
+    {
+      "id": "week",
+      "group": "market",
+      "name": "Tổng kết tuần",
+      "use": "Bản tổng kết 7 ngày",
+      "emoji": [
+        "🗓️"
+      ],
+      "keywords": [
+        "weekly",
+        "tuần",
+        "tổng kết"
+      ],
+      "static": "static/week.png"
+    },
+    {
+      "id": "bell",
+      "group": "market",
+      "name": "Thông báo",
+      "use": "Báo động giá, nhắc lịch",
+      "emoji": [
+        "🔔"
+      ],
+      "keywords": [
+        "alert",
+        "thông báo",
+        "nhắc"
+      ],
+      "static": "static/bell.png"
+    },
+    {
+      "id": "gem",
+      "group": "market",
+      "name": "Đá quý",
+      "use": "Đồng tiền tiềm năng",
+      "emoji": [
+        "💎"
+      ],
+      "keywords": [
+        "gem",
+        "tiềm năng",
+        "kèo thơm"
+      ],
+      "static": "static/gem.png"
+    },
+    {
+      "id": "alpha",
+      "group": "market",
+      "name": "Alpha",
+      "use": "Góc nhìn riêng, thông tin sớm",
+      "emoji": [
+        "🔮"
+      ],
+      "keywords": [
+        "alpha",
+        "kèo riêng",
+        "insight"
+      ],
+      "static": "static/alpha.png"
+    },
+    {
+      "id": "invalid",
+      "group": "market",
+      "name": "Phủ định",
+      "use": "Điều kiện phủ định luận điểm",
+      "emoji": [
+        "⛔"
+      ],
+      "keywords": [
+        "invalidation",
+        "phủ định",
+        "sai luận điểm"
+      ],
+      "static": "static/invalid.png"
+    },
+    {
+      "id": "n1",
+      "group": "nav",
+      "name": "Số 1",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "1️⃣"
+      ],
+      "keywords": [
+        "1",
+        "số",
+        "number"
+      ],
+      "static": "static/n1.png"
+    },
+    {
+      "id": "n2",
+      "group": "nav",
+      "name": "Số 2",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "2️⃣"
+      ],
+      "keywords": [
+        "2",
+        "số",
+        "number"
+      ],
+      "static": "static/n2.png"
+    },
+    {
+      "id": "n3",
+      "group": "nav",
+      "name": "Số 3",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "3️⃣"
+      ],
+      "keywords": [
+        "3",
+        "số",
+        "number"
+      ],
+      "static": "static/n3.png"
+    },
+    {
+      "id": "n4",
+      "group": "nav",
+      "name": "Số 4",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "4️⃣"
+      ],
+      "keywords": [
+        "4",
+        "số",
+        "number"
+      ],
+      "static": "static/n4.png"
+    },
+    {
+      "id": "n5",
+      "group": "nav",
+      "name": "Số 5",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "5️⃣"
+      ],
+      "keywords": [
+        "5",
+        "số",
+        "number"
+      ],
+      "static": "static/n5.png"
+    },
+    {
+      "id": "n6",
+      "group": "nav",
+      "name": "Số 6",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "6️⃣"
+      ],
+      "keywords": [
+        "6",
+        "số",
+        "number"
+      ],
+      "static": "static/n6.png"
+    },
+    {
+      "id": "n7",
+      "group": "nav",
+      "name": "Số 7",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "7️⃣"
+      ],
+      "keywords": [
+        "7",
+        "số",
+        "number"
+      ],
+      "static": "static/n7.png"
+    },
+    {
+      "id": "n8",
+      "group": "nav",
+      "name": "Số 8",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "8️⃣"
+      ],
+      "keywords": [
+        "8",
+        "số",
+        "number"
+      ],
+      "static": "static/n8.png"
+    },
+    {
+      "id": "n9",
+      "group": "nav",
+      "name": "Số 9",
+      "use": "Đánh số ý trong bài",
+      "emoji": [
+        "9️⃣"
+      ],
+      "keywords": [
+        "9",
+        "số",
+        "number"
+      ],
+      "static": "static/n9.png"
+    },
+    {
+      "id": "arrow_up",
+      "group": "nav",
+      "name": "Mũi tên lên",
+      "use": "Tăng, vượt",
+      "emoji": [
+        "⬆️"
+      ],
+      "keywords": [
+        "up",
+        "tăng",
+        "lên"
+      ],
+      "static": "static/arrow_up.png"
+    },
+    {
+      "id": "arrow_down",
+      "group": "nav",
+      "name": "Mũi tên xuống",
+      "use": "Giảm, thủng",
+      "emoji": [
+        "⬇️"
+      ],
+      "keywords": [
+        "down",
+        "giảm",
+        "xuống"
+      ],
+      "static": "static/arrow_down.png"
+    },
+    {
+      "id": "arrow_right",
+      "group": "nav",
+      "name": "Mũi tên phải",
+      "use": "Gạch đầu dòng, dẫn ý",
+      "emoji": [
+        "➡️"
+      ],
+      "keywords": [
+        "right",
+        "tiếp",
+        "dẫn ý"
+      ],
+      "static": "static/arrow_right.png"
+    }
+  ]
+}

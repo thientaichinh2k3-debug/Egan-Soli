@@ -1,0 +1,2 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"><defs><linearGradient id="arrow_down-a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7D8C" stop-opacity="1"></stop><stop offset="1" stop-color="#A61E32" stop-opacity="1"></stop></linearGradient></defs>
+<path d="M50 88 L86 50 H65 V13 H35 V50 H14 Z" fill="url(#arrow_down-a)" stroke="url(#arrow_down-a)" stroke-width="6" stroke-linejoin="round"></path></svg>

@@ -1,0 +1,6 @@
+node_modules/
+.frames/
+.render.html
+.preview.html
+.chk/
+__pycache__/
